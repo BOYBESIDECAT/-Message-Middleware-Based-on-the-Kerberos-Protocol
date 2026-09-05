@@ -1,0 +1,12 @@
+{
+  "version": "X509-SIMPLE-V1",
+  "cert_id": "AS-HOST-001",
+  "serial_number": "SERIAL-AS-001",
+  "subject_role": "AS",
+  "issuer": "CA-DEV",
+  "public_key_hex": "AS-HOST-001_AS_78156cb9fc6c94880c1f2eaf730f3329b13cfbb095a7d562caab1cf9bd5d377c",
+  "valid_from": "2026-05-15T19:22:28.387144Z",
+  "valid_to": "2027-05-15T19:22:28.387144Z",
+  "signature_algorithm": "SHA-256/RSA2048-NOPADDING",
+  "ca_signature_hex": "mock_signature_12345678"
+}
